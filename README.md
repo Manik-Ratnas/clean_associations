@@ -1,5 +1,7 @@
 # CleanAssociations
 
+[![Gem Version](https://badge.fury.io/rb/clean_associations.png)](http://badge.fury.io/rb/clean_associations)
+
 This is a gem to find or delete an invalid record in your activerecord object based on belongs_to association
 
 ## Installation
@@ -50,4 +52,4 @@ You may want to delete them too.. ! So we have a method for that.
 
 Specs
 
-:collision: :collision: collision: 
+:collision: :collision: :collision: 
